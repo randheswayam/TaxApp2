@@ -1,0 +1,1 @@
+Do not keep empty file in project
